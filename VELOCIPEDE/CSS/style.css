@@ -1,0 +1,43 @@
+body{
+    font-family:Arial, Helvetica, sans-serifs;
+    background-image: url("../images/login_bgimage.png");
+}
+input[type=name], input[type=password]{
+    width:100%;
+} 
+h1{
+    padding: 20px;
+    color:darkmagenta;
+}
+.header{
+    margin:0px auto;
+    display:flex;
+    justify-content: center;
+    padding: 30px;
+    line-height: 50px;
+    color:solid burlywood;
+    cursor:pointer;
+    font-size: 20px;
+}
+.third-anchor{
+    text-decoration: none;
+    color:black;
+}
+.first-anchor{
+    text-decoration: none;
+    color:maroon;
+    margin: 30%;
+}
+.first-anchor:hover{
+    color:black;
+    background-color: yellow;
+}
+.second-anchor{
+    text-decoration: none;
+    background-color: crimson;
+    color:black
+}
+.second-anchor:hover{
+    background-color: green;
+    color:white;
+}
