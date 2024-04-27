@@ -4,7 +4,7 @@ let cityNames = ["Tirupur","Coimbatore","Erode"];
 //Creating Integer Array
 let markList = [89,92,94,96,100];
 
-//length method - Finding total elements in an array
+//length property - Finding total elements in an array
 console.log(cityNames.length);
 console.log(markList.length);
 
