@@ -1,0 +1,1 @@
+Here we practised how to clone contents from github to local repository..
